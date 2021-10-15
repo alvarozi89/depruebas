@@ -1,3 +1,15 @@
 Pruba de conexion.
 
 /*hice un cambio en la linea 3*/
+
+<DPCTYPE html>
+
+<html>
+<head>
+<title>Pagina de Inicio</title>
+</head>
+<body>
+Hola Mundo
+</body>
+
+/html>
